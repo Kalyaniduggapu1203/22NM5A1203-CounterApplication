@@ -1,0 +1,33 @@
+.para
+{
+    font-size: 80px;
+    font-weight:500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.head
+{
+    font-size:80px;
+    font-weight:600;
+    font-family:roboto;
+}
+.btn{
+    width: 100px;
+    height:36px;
+    font-family: roboto;
+    border-radius: 10px;
+    font-size:20px;
+    margin:10px;
+    color:cornflowerblue;
+    border: 0px;
+    border-radius: 4px;
+}
+.bgcontainer
+{
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_pic/05/17/09/6059b89224294ac.jpg?hl=en_IN");
+    background-size: cover;
+    height:100vh;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
